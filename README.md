@@ -1,5 +1,11 @@
 # Codio - Java Programming Projects
 
+[![Java CI](https://github.com/NewdlDewdl/Codio/actions/workflows/java-ci.yml/badge.svg)](https://github.com/NewdlDewdl/Codio/actions/workflows/java-ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/NewdlDewdl/Codio)](https://github.com/NewdlDewdl/Codio/issues)
+[![GitHub stars](https://img.shields.io/github/stars/NewdlDewdl/Codio)](https://github.com/NewdlDewdl/Codio/stargazers)
+[![Java](https://img.shields.io/badge/Java-8%2B-orange)](https://www.oracle.com/java/)
+
 A collection of Java programming assignments and projects covering fundamental to intermediate computer science concepts, including algorithms, data structures, object-oriented programming, and simulation.
 
 ## Projects Overview
